@@ -16,16 +16,16 @@ The thesis extensively focused on the usage of smart robot assistants, both in t
 
 ## Built with
 
-* Alizé speaker recognition framework [Link](https://github.com/ALIZE-Speaker-Recognition/android-alize)
-* 
+* [Android](https://www.android.com/) - The World's Most Popular Mobile Platform
+* [Alizé](https://github.com/ALIZE-Speaker-Recognition/android-alize) - The framework utilized for recognizing speakers
 
 ## Authors
 
-
+* **Vincent Thiele** - *Prototype Development* - [vvvt](https://github.com/vvvt)
 
 ## License
 
-
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
