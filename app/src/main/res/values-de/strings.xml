@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">loomorec</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="title_add_speaker">Neuen Sprecher hinzufügen</string>
+    <string name="title_identify_speaker">Sprecher erkennen</string>
+    <string name="btn_list_speakers">Sprecherliste</string>
+    <string name="btn_nav_add_speaker">Neuen Sprecher hinzufügen</string>
+    <string name="btn_nav_identify_speaker">Sprecher erkennen</string>
+    <string name="txt_recordingnotpresent">Neue Stimmprobe aufnehmen</string>
+    <string name="txt_recordingpresent">Stimmprobe bereit</string>
+    <string name="btn_record">Aufnehmen</string>
+    <string name="btn_record_description">Drücken Sie den Knopf um eine neue Stimmprobe aufzunehmen; Drücken Sie ihn erneut um die Aufnahme zu beenden</string>
+    <string name="btn_add_speaker">Sprecher hinzufügen</string>
+    <string name="txt_recording">Aufnahme läuft…</string>
+    <string name="txt_registered_speakers" tools:keep="@string/txt_registered_speakers">Registrierte Sprecher</string>
+    <string name="title_registered_speakers">Registrierte Sprecher</string>
+    <string name="dia_question">Wollen sie den gewählten Sprecher löschen?</string>
+    <string name="dia_positive">Ja</string>
+    <string name="dia_negative">Nein</string>
+    <string name="dia_title">Sprecher löschen</string>
+    <string name="txt_identify_result_match">Treffer:</string>
+    <string name="txt_identify_result_id">Sprecher ID:</string>
+    <string name="txt_identify_result_score">Ergebnis:</string>
+    <string name="txt_name_input">Name des Sprechers</string>
+    <string name="img_user_icon">Icon zur Repräsentation des jeweiligen Nutzers</string>
+    <string name="btn_add_play">Drücken zum Starten der Wiedergabe der letzten Aufnahme</string>
+</resources>

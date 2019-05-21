@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">loomorec</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_main" translatable="false">Voice Identification</string>
+    <string name="title_add_speaker">Add Speaker Profile</string>
+    <string name="title_identify_speaker">Identify Speaker</string>
+    <string name="title_registered_speakers">Registered Speakers</string>
+
+    <string name="btn_list_speakers">List of Speakers</string>
+    <string name="btn_nav_add_speaker">Add New Speaker</string>
+    <string name="btn_nav_identify_speaker">Identify Speaker</string>
+
+    <string name="txt_recordingnotpresent">record new voice sample</string>
+    <string name="txt_recordingpresent">voice sample ready</string>
+    <string name="btn_record">Record</string>
+    <string name="btn_record_description">Press button to record a new voice sample, press again to stop recording</string>
+    <string name="btn_add_speaker">Add Speaker</string>
+    <string name="txt_name_input">Speaker name</string>
+
+    <string name="txt_recording">Recording…</string>
+    <string name="txt_registered_speakers" tools:keep="@string/txt_registered_speakers">Registered Speakers</string>
+    <string name="dia_positive">Yes</string>
+    <string name="dia_negative">No</string>
+    <string name="dia_question">Do you want to delete the selected speaker?</string>
+    <string name="dia_title">Delete Speaker</string>
+    <string name="txt_identify_result_match">Match:</string>
+    <string name="txt_identify_result_id">SpeakerID:</string>
+    <string name="txt_identify_result_score">Score:</string>
+    <string name="img_user_icon">Icon representing the user</string>
+    <string name="btn_add_play">Press to start playback of the last recording</string>
+
+</resources>
