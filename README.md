@@ -33,7 +33,7 @@ The MainActivity serves as the general entry point and navigation hub. Nothing f
 #### Registration Activity
 The RegistrationActivity implements the registration of new users.
 
-Pushing the recording button starts a new recording, while pressing it again stops it. Repeating the process overwrites the current recording. Pressing the Play button after a voice sample has been recorded, plays back the audio file.
+Pushing the &#127897; button starts a new recording, while pressing it again stops it. Repeating the process overwrites the current recording. Pressing the :arrow_forward: button after a voice sample has been recorded, plays back the audio file.
 
 Pressing the **Add Speaker** button starts the feature analysis and finally creates a new entry in the database.
 
@@ -41,14 +41,21 @@ Pressing the **Add Speaker** button starts the feature analysis and finally crea
 After new speakers have been added in the RegistrationActivity, they can be identified in the IdentificationActivity. In a similar fashion, new voice samples can be recorded and played back.
 
 After the recording has stopped, the app returns three values:
+
 **SpeakerID** - *Name of the identified user*
+
 **Score** - *Confidence value, indicating the likelyness of a correct identification*
+
 **Match** - *Returns a true or false, based on whether the attained score exceeds a defined threshold*
 
 #### Directory Activity
 The DirectoryActivity lists all registered speakers. Users can be removed from the database by selecting the respective entry.
 
 ### Hints
+
+* A "good" confidence value isn't officially defined by the creators of the framework. Searching various forums led to an assumed value of 70 for indicating a reliable identification result
+
+* In evaluation the prototype showed the best results with an initial sample length of >60 seconds. Tests with a lenght of 7 seconds were faulty and yielded mixed results with a 30 second training set.
 
 ## Built with
 
