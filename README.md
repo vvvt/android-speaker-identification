@@ -37,6 +37,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* [David Gollasch](https://davidgollasch.de/) - helpful tips and coordination
+* **David Gollasch** - *helpful tips and coordination* - [DavidGollasch](https://github.com/DavidGollasch)
 
-* [Mitch Tabian](https://github.com/mitchtabian) - example implementation of an [SQLite Database](https://github.com/mitchtabian/SaveReadWriteDeleteSQLite)
+* **Mitch Tabian** - *example implementation of the SQLite Database - [mitchtabian](https://github.com/mitchtabian)
