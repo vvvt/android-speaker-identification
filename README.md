@@ -1,6 +1,6 @@
 # android-speaker-identification
 
-<img src="https://img.shields.io/badge/minSDK-%E2%89%A522-green.svg" /> <img src="https://img.shields.io/badge/targetSDK-%E2%89%A527-green.svg" /> <img src="https://img.shields.io/badge/version-1.0-informational.svg" />
+<img src="https://img.shields.io/badge/minSDK-22-green.svg" /> <img src="https://img.shields.io/badge/targetSDK-27-green.svg" /> <img src="https://img.shields.io/badge/version-1.0-informational.svg" />
 
 As part of a bachelor thesis researching various means of differentiating users in order to enable a personalized experience, the prototype at hand aims to realize a user-identification-system, based on the human voice.
 

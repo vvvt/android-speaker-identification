@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.segway.robot:basesdk:0.6.746@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/basesdk-0.6.746.aar/779efcc25e5edeb3b29a0e6a5e37664e/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/basesdk-0.6.746.aar/779efcc25e5edeb3b29a0e6a5e37664e/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/53cd71ac1b0cf2371270a0ecbb672e73/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/53cd71ac1b0cf2371270a0ecbb672e73/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

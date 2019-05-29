@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: __local_aars__:/home/vvvt/Development/Android/android-speaker-identification/src/app/libs/alize.aar:unspecified@jar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/alize.aar/b3e1abc05534c8115b7cd0bc53606efa/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/alize.aar/b3e1abc05534c8115b7cd0bc53606efa/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e3b2a1aa1fe1b93429353feecaa33348/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e3b2a1aa1fe1b93429353feecaa33348/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
