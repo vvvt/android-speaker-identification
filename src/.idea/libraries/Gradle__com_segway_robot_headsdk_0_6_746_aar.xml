@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.segway.robot:headsdk:0.6.746@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/headsdk-0.6.746.aar/c0c1e6d2e2aeb5e0d39f7a07511493d6/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/headsdk-0.6.746.aar/c0c1e6d2e2aeb5e0d39f7a07511493d6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/headsdk-0.6.746.aar/c0c1e6d2e2aeb5e0d39f7a07511493d6/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.segway.robot/headsdk/0.6.746/d380559ec2021a3884aa1a7ec5d2f3c42c0675bc/headsdk-0.6.746-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

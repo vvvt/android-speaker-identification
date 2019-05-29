@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.segway.robot:sensorsdk:0.6.746@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/sensorsdk-0.6.746.aar/33eb0b062cee9d4f86766f975010df66/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/sensorsdk-0.6.746.aar/33eb0b062cee9d4f86766f975010df66/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.segway.robot/sensorsdk/0.6.746/ef0db885dd6894978ba17309c1a6e142afbc6854/sensorsdk-0.6.746-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

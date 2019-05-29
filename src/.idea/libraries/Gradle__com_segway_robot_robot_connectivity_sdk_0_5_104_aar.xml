@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.segway.robot:robot-connectivity-sdk:0.5.104@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/robot-connectivity-sdk-0.5.104.aar/407ed77dec4a7fef99a663dd47533e3e/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/robot-connectivity-sdk-0.5.104.aar/407ed77dec4a7fef99a663dd47533e3e/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.segway.robot/robot-connectivity-sdk/0.5.104/e604079f886bafed72e48ff0c59e2767a60fe1b8/robot-connectivity-sdk-0.5.104-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

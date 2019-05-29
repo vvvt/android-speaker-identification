@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.segway.robot:visionsdk:0.6.547@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/visionsdk-0.6.547.aar/0e6bab2e5cc1a6b6188659ca6eff458f/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/visionsdk-0.6.547.aar/0e6bab2e5cc1a6b6188659ca6eff458f/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/visionsdk-0.6.547.aar/0e6bab2e5cc1a6b6188659ca6eff458f/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.segway.robot/visionsdk/0.6.547/322163f25f250e12615e7b60f015d7df369fddd0/visionsdk-0.6.547-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

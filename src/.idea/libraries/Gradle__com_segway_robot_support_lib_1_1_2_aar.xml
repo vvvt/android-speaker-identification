@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.segway.robot:support-lib:1.1.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-lib-1.1.2.aar/b998d8432e808dba3df72cfdfcab8127/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-lib-1.1.2.aar/b998d8432e808dba3df72cfdfcab8127/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.segway.robot/support-lib/1.1.2/c17e9b7404a5b0137a7f839ae3525d9004d00b1b/support-lib-1.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

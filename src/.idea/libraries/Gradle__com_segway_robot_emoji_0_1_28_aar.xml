@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.segway.robot:emoji:0.1.28@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/emoji-0.1.28.aar/466457a2aac22b3515bec18f535d7229/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/emoji-0.1.28.aar/466457a2aac22b3515bec18f535d7229/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/emoji-0.1.28.aar/466457a2aac22b3515bec18f535d7229/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.segway.robot/emoji/0.1.28/c61d2bf4018d5286bf07f66b958b22f7eec57002/emoji-0.1.28-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
