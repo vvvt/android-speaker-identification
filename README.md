@@ -1,12 +1,13 @@
 # android-speaker-identification
 
-<img src="https://img.shields.io/badge/minSDK-22-green.svg" /> <img src="https://img.shields.io/badge/targetSDK-27-green.svg" /> <img src="https://img.shields.io/badge/version-1.0-informational.svg" />
+<img src="https://img.shields.io/badge/minSDK-22-green.svg?logo=Android" /> <img src="https://img.shields.io/badge/targetSDK-27-green.svg?logo=Android" /> <img src="https://img.shields.io/badge/version-1.0-informational.svg" />
 
-As part of a bachelor thesis researching various means of differentiating users in order to enable a personalized experience, the prototype at hand aims to realize a user-identification-system, based on the human voice.
+Prototypical Android app for indentifying users, based on their voice
 
-## Motivation
+## About
+As part of a bachelor thesis, covering various means of differentiating users in order to enable a personalized experience, the prototype at hand aims to realize a user-identification-system, based on the human voice.
 
-The thesis extensively focused on the usage of smart robot assistants, both in the context of home and medical care. Thus identifying users serves the purpose of granting users with certain disabilities an individual treatment with focus on their respective needs.
+The thesis extensively focused on the usage of smart robot assistants, both in the context of home and medical care. Thus identifying users serves the purpose of granting those with certain disabilities an personal treatment with respect to their individual needs.
 
 ## Getting started
 
@@ -87,4 +88,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * **David Gollasch** - *project supervision and guidance* - [DavidGollasch](https://github.com/DavidGollasch)
 
-* **Mitch Tabian** - *example implementation of the SQLite Database - [mitchtabian](https://github.com/mitchtabian)
+* **Mitch Tabian** - *example implementation of the SQLite Database* - [mitchtabian](https://github.com/mitchtabian)
