@@ -44,7 +44,7 @@ public class IdentificationActivity extends AppCompatActivity {
                         recorder.stopRecording();
                         isRecording = false;
                         btnRecording.setImageResource(R.drawable.ic_record);
-                        t.setText(R.string.txt_recordingpresent);
+                        t.setText(R.string.txt_recording_present);
 
                         recordingData = recorder.getRecording();
                         identifySpeaker();

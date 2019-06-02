@@ -10,8 +10,8 @@
     <string name="btn_nav_add_speaker">Add New Speaker</string>
     <string name="btn_nav_identify_speaker">Identify Speaker</string>
 
-    <string name="txt_recordingnotpresent">record new voice sample</string>
-    <string name="txt_recordingpresent">voice sample ready</string>
+    <string name="txt_recording_not_present">record new voice sample</string>
+    <string name="txt_recording_present">voice sample ready</string>
     <string name="btn_record">Record</string>
     <string name="btn_record_description">Press button to record a new voice sample, press again to stop recording</string>
     <string name="btn_add_speaker">Add Speaker</string>

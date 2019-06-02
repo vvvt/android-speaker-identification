@@ -7,8 +7,8 @@
     <string name="btn_list_speakers">Sprecherliste</string>
     <string name="btn_nav_add_speaker">Neuen Sprecher hinzufügen</string>
     <string name="btn_nav_identify_speaker">Sprecher erkennen</string>
-    <string name="txt_recordingnotpresent">Neue Stimmprobe aufnehmen</string>
-    <string name="txt_recordingpresent">Stimmprobe bereit</string>
+    <string name="txt_recording_not_present">Neue Stimmprobe aufnehmen</string>
+    <string name="txt_recording_present">Stimmprobe bereit</string>
     <string name="btn_record">Aufnehmen</string>
     <string name="btn_record_description">Drücken Sie den Knopf um eine neue Stimmprobe aufzunehmen; Drücken Sie ihn erneut um die Aufnahme zu beenden</string>
     <string name="btn_add_speaker">Sprecher hinzufügen</string>

@@ -20,7 +20,7 @@
         android:layout_width="232dp"
         android:layout_height="26dp"
         android:layout_marginStart="24dp"
-        android:text="@string/txt_recordingnotpresent"
+        android:text="@string/txt_recording_not_present"
         android:textAppearance="@android:style/TextAppearance.DeviceDefault.Medium"
         app:layout_constraintBottom_toBottomOf="@+id/btn_identify_record"
         app:layout_constraintStart_toEndOf="@+id/btn_identify_play"

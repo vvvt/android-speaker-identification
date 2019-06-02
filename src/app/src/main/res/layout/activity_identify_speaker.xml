@@ -20,7 +20,7 @@
         android:layout_width="232dp"
         android:layout_height="26dp"
         android:layout_marginTop="104dp"
-        android:text="@string/txt_recordingnotpresent"
+        android:text="@string/txt_recording_not_present"
         android:textAppearance="@android:style/TextAppearance.DeviceDefault.Medium"
         app:layout_constraintStart_toStartOf="@+id/linearLayout"
         app:layout_constraintTop_toBottomOf="@+id/linearLayout" />

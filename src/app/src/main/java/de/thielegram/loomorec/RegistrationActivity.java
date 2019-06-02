@@ -36,7 +36,7 @@ public class RegistrationActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
 
-                TextView t = findViewById(R.id.txt_recordingpresent);
+                TextView t = findViewById(R.id.txt_recording_present);
 
                 if(!isRecording){
                     recorder.startRecording();
@@ -46,7 +46,7 @@ public class RegistrationActivity extends AppCompatActivity {
                 }else{
                     recorder.stopRecording();
                     isRecording = false;
-                    t.setText(R.string.txt_recordingpresent);
+                    t.setText(R.string.txt_recording_present);
                     btnRecording.setImageResource(R.drawable.ic_record);
 
                     recordingData = recorder.getRecording();
