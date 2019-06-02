@@ -1,6 +1,6 @@
 # android-speaker-identification
 
-<img src="https://img.shields.io/badge/minSDK-22-green.svg?logo=Android" /> <img src="https://img.shields.io/badge/targetSDK-27-green.svg?logo=Android" /> <img src="https://img.shields.io/badge/version-1.0-informational.svg" />
+<img src="https://img.shields.io/badge/minSDK-22-green.svg?logo=Android" /> <img src="https://img.shields.io/badge/targetSDK-28-green.svg?logo=Android" /> <img src="https://img.shields.io/badge/version-1.0-informational.svg" />
 
 Prototypical Android app for indentifying users, based on their voice
 
