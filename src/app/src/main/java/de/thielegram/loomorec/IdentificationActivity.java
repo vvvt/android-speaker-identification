@@ -66,8 +66,14 @@ public class IdentificationActivity extends AppCompatActivity {
                 } else if (recorder.getRecording() == null) {
                     Snackbar snackbar = Snackbar.make(findViewById(android.R.id.content), "Can't start playback until a voice sample is recorded", Snackbar.LENGTH_LONG);
                     snackbar.show();
+                } else if (isPlaying){
+                    recorder.stopPlayback();
+                    isPlaying = false;
+                    btnPlay.setImageResource(R.drawable.ic_play);
                 } else {
                     recorder.startPlayback();
+                    isPlaying = true;
+                    btnPlay.setImageResource(R.drawable.ic_stop);
                 }
             }
         });
@@ -91,6 +97,7 @@ public class IdentificationActivity extends AppCompatActivity {
 
     private short[] recordingData = new short[0];
     private boolean isRecording = false;
+    private boolean isPlaying = false;
 
     private void identifySpeaker() throws AlizeException {
         SpkRecResult result = identifier.identifySpeaker(recordingData);
