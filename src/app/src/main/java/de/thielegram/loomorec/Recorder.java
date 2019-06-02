@@ -14,7 +14,6 @@ class Recorder {
     private final static int[] mSampleRates = new int[] { 44100, 22050, 11025, 8000 };
 
     private AudioTrack track = null;
-    private Thread playbackThread = null;
 
     private boolean isRecording = false;
     private AudioRecord recorder;
@@ -156,7 +155,7 @@ class Recorder {
 
     void startPlayback() {
         if(track!=null) {
-            playbackThread = new Thread(new Runnable() {
+            Thread playbackThread = new Thread(new Runnable() {
                 public void run() {
                     track.write(recordingData, 0, recordingData.length);
                 }

@@ -18,7 +18,6 @@ class DatabaseHelper extends SQLiteOpenHelper {
     private static final String TAG = "DatabaseHelper";
 
     private static final String TABLE_NAME = "speakers";
-    private static final String COL1 = "id";
     private static final String COL2 = "name";
     private static final String COL3 = "display";
 
@@ -50,7 +49,7 @@ class DatabaseHelper extends SQLiteOpenHelper {
 
         Log.d(TAG, "Adding " + displayName + " (" + fileName + ") to the database");
 
-        long result = db.insert(TABLE_NAME, null, contentValues);
+        db.insert(TABLE_NAME, null, contentValues);
 
     }
 

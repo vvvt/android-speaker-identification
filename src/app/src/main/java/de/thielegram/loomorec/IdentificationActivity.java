@@ -60,8 +60,6 @@ public class IdentificationActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
 
-                TextView t = findViewById(R.id.txt_identify_recording_present);
-
                 if (isRecording) {
                     Snackbar snackbar = Snackbar.make(findViewById(android.R.id.content), "Wait until the recording process is over", Snackbar.LENGTH_LONG);
                     snackbar.show();
