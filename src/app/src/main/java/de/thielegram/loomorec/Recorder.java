@@ -11,7 +11,6 @@ import java.util.Arrays;
 
 class Recorder {
 
-    private final int BUFFER_BYTES_PER_ELEMENT = 2;
     private final static int[] mSampleRates = new int[] { 44100, 22050, 11025, 8000 };
 
     private AudioTrack track = null;
@@ -94,7 +93,7 @@ class Recorder {
     private void writeRecordingDataToArray() {
 
         int BUFFER_ELEMENTS_TO_REC = 1024;
-        short sData[] = new short[BUFFER_ELEMENTS_TO_REC];
+        short[] sData = new short[BUFFER_ELEMENTS_TO_REC];
 
         while (isRecording) {
             recorder.read(sData, 0, BUFFER_ELEMENTS_TO_REC);
@@ -153,18 +152,18 @@ class Recorder {
         int mode = AudioTrack.MODE_STREAM;
 
         track = new AudioTrack(streamType, sampleRate, channel, encoding, bufferSize, mode);
-
-        playbackThread = new Thread(new Runnable() {
-            public void run() {
-                track.write(recordingData, 0, recordingData.length);
-            }
-        }, "AudioPlayback Thread");
     }
 
     void startPlayback() {
         if(track!=null) {
-            track.play();
+            playbackThread = new Thread(new Runnable() {
+                public void run() {
+                    track.write(recordingData, 0, recordingData.length);
+                }
+            }, "AudioPlayback Thread");
+
             playbackThread.start();
+            track.play();
         }
     }
 
